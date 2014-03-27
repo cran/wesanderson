@@ -1,0 +1,15 @@
+b6e4ce7444202f653a585f5859d869af *DESCRIPTION
+f9163ec89883aa807ef463cef40c77f0 *LICENSE
+2425203de648cca44147b7cdd141d4e1 *NAMESPACE
+f102b4ad7a9f6ed373c3557375e7f327 *NEWS
+fd892f70fd62849853eb07818ba61129 *R/colors.R
+07a074e0c890683b318d54cb0703dd58 *R/wesanderson.R
+1cb0a1c11980f50c9e300b479477fca9 *README.md
+d342fd2ea5c1e9ef0c00665dced9e876 *data/heatmap.rda
+3bd134da7534e41e848bd459354a0cfe *data/namelist.rda
+0661f5fc765ebecf6ee75bb97b727a75 *man/display.wes.palette.Rd
+61a52a87e9fe5e4e1eb856d224c696d7 *man/heatmap.Rd
+5946df570d7ca221ac1b27beb0f0c9fa *man/namelist.Rd
+eb70e049d775d9aefb318c85d8254442 *man/wes.palette.Rd
+3eca870f94b87d41d32bc8673f1d6aed *man/wesanderson.Rd
+37a13c5ab1ce3ddff5e0fb2f4b6386de *tests/testthat/test-all.R
